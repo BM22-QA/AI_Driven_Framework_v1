@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="15.998904999999999">
+<testsuite name="web\end-to-end-shopping-flow.spec.ts" timestamp="2026-10-30T18:30:04.149Z" hostname="chromium" tests="1" failures="0" skipped="0" time="11.232" errors="0">
+<testcase name="End-to-End Shopping Flow test @master @end-to-end @web" classname="web\end-to-end-shopping-flow.spec.ts" time="11.232">
+<system-out>
+<![CDATA[✅ ✔️ End-to-End Shopping Flow completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
